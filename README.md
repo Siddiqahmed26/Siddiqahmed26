@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siddiqahmed.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1inl_24ulaoCyfeqVAgWnif-dP_EVgRVB/view?usp=sharing](https://drive.google.com/file/d/1RcFdYXnS7nKOQh0_roceK0MPyOWkkHgx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1inl_24ulaoCyfeqVAgWnif-dP_EVgRVB/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
