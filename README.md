@@ -26,7 +26,7 @@
 My journey didn't start with writing code — it started with fixing broken systems under pressure.
 ```
 
-- 🤖 Currently a **Gen AI Trainee Engineer** at **augsta** (SAP | BTP | Migration | Integration)
+- 🤖 Currently a **Gen AI Trainee Engineer** at **NewsXsys Technologies** >>> SAP BTP
 - 🔭 Building **LLM-powered apps** and **multi-AI agent systems** via vibe coding & prompt engineering
 - 🏆 **Oracle Certified Generative AI Professional** (OCI 2025) + **AcceleratorX AI Agent Builder** (2026)
 - 📝 **Published Researcher** — *"A Community-Based Safety System for Colleges/Universities"* · IJRPR, 2024
