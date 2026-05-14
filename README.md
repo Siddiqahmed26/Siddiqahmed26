@@ -102,7 +102,7 @@ My journey didn't start with writing code — it started with fixing broken syst
 
 | | Role | Company | Period | Type |
 |---|------|---------|--------|------|
-| 🤖 | **Gen AI Trainee Engineer** | augsta · SAP \| BTP \| Integration | Oct 2025 – Present | Remote |
+| 🤖 | **Gen AI Trainee Engineer** | NewsXsys Technologies >>> SAP BTP | Oct 2025 – Present | Remote |
 | ☕ | **Java Developer Trainee** | HulkHire | Aug – Sep 2025 | Remote |
 | 🖥️ | **L1.5 Technical Support Engineer** | HP | May – Jul 2025 | Hybrid |
 | ⚙️ | **Technical Operations Executive** | Flipkart | Oct 2024 – Feb 2025 | On-site |
