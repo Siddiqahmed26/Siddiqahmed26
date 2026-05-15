@@ -156,7 +156,7 @@ My journey didn't start with writing code — it started with fixing broken syst
     <img src="https://img.shields.io/badge/Email-siddiqahmed.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1IBPzgoWNdq2rRCuto8Ueg9sN-doyYnS7/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_mpZR9EkK9JcQ8-tFinN88htmG7uJ2G4/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
